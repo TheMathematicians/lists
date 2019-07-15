@@ -3,7 +3,6 @@ import styled, { ThemeProvider } from 'styled-components';
 import { GlobalStyle } from './styles/GlobalStyle';
 import { theme } from './styles/Theme';
 
-
 const Wrapper = styled.div`
   color: ${props => props.theme.colors.secondary};
   display: grid;
@@ -17,11 +16,10 @@ const App: React.FC = () => {
     <ThemeProvider theme={theme}>
       <Wrapper>
         Testing Styled Components
-
         <GlobalStyle />
       </Wrapper>
     </ThemeProvider>
   );
-}
+};
 
 export default App;
