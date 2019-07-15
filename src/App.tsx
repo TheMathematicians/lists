@@ -20,6 +20,7 @@ const App: React.FC = () => {
     <ThemeProvider theme={theme}>
       <Wrapper>
         <Title>Lists</Title>
+
         <GlobalStyle />
       </Wrapper>
     </ThemeProvider>
