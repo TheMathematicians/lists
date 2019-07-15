@@ -51,3 +51,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 * [React Docs - Main Concepts](https://reactjs.org/docs/hello-world.html)
 * [Styled components - Typescript setup](https://www.styled-components.com/docs/api#typescript)
 * [reactjs.org prettier config](https://github.com/reactjs/reactjs.org/blob/master/.prettierrc)
+* [Using ESLint and Prettier in a TypeScript Project](https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project)
