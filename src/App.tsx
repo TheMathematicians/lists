@@ -11,11 +11,15 @@ const Wrapper = styled.div`
   height: 100vh;
 `;
 
+const Title = styled.h1`
+  font-size: 5em;
+`;
+
 const App: React.FC = () => {
   return (
     <ThemeProvider theme={theme}>
       <Wrapper>
-        Testing Styled Components
+        <Title>Lists</Title>
         <GlobalStyle />
       </Wrapper>
     </ThemeProvider>
