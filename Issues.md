@@ -34,3 +34,17 @@ https://github.com/kulshekhar/ts-jest/issues/259#issuecomment-504088010
 ### Resolution
 
 Installed `3.4.5` version of TypeScript.
+
+## Styled Components + TypeScript - missing proper debugging
+
+### Issue
+
+![Styled Components + TypeScript - missing proper debugging](./issues/TypeScriptStyledComponentsDebuggingIssue.png)
+
+### Resolution
+
+Install `babel-plugin-macros` and import from `styled-components/macro`.
+
+### Ref
+
+https://www.styled-components.com/docs/tooling#babel-macro

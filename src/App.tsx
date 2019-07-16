@@ -1,5 +1,5 @@
 import React from 'react';
-import styled, { ThemeProvider } from 'styled-components';
+import styled, { ThemeProvider } from 'styled-components/macro';
 import { GlobalStyle } from './styles/GlobalStyle';
 import { theme } from './styles/Theme';
 
