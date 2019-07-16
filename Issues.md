@@ -45,6 +45,8 @@ Installed `3.4.5` version of TypeScript.
 
 Install `babel-plugin-macros` and import from `styled-components/macro`.
 
+![Can see proper names for the styled components for easier debugging](./issues/TypeScriptStyledComponentsDebuggingIssue--Resolved.png)
+
 ### Ref
 
 https://www.styled-components.com/docs/tooling#babel-macro
