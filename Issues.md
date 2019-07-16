@@ -23,3 +23,14 @@ Run `react-scripts test` _**`--maxWorkers=1`**_
 ### Ref
 
 https://github.com/kulshekhar/ts-jest/issues/259#issuecomment-504088010
+
+
+## TypeScript version mismatch for `typescript-estree`
+
+### Issue
+
+![TypeScript version mismatch](./issues/TypescriptVersionMismatch.png)
+
+### Resolution
+
+Installed `3.4.5` version of TypeScript.
