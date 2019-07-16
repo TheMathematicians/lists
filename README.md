@@ -52,3 +52,13 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 * [Styled components - Typescript setup](https://www.styled-components.com/docs/api#typescript)
 * [reactjs.org prettier config](https://github.com/reactjs/reactjs.org/blob/master/.prettierrc)
 * [Using ESLint and Prettier in a TypeScript Project](https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project)
+* [Storybook - Setup](https://storybook.js.org/docs/guides/quick-start-guide/)
+* [Learn Storybook](https://www.learnstorybook.com/react/en/get-started/)
+* [React Official - Storybook examples](https://storybooks-official.netlify.com)
+
+### Testing
+
+* [React Testing with Storybook + Jest](https://blog.cloudboost.io/reactjs-unit-testing-with-storybook-jest-2c3ac5ff37ba)
+* [React Testing for Beginners](https://github.com/leveluptuts/React-Testing-For-Beginners)
+* [React UI Testing - Storybook](https://storybook.js.org/docs/testing/react-ui-testing/)
+* [Automated Visual Testing - Storybook](https://storybook.js.org/docs/testing/automated-visual-testing/)
