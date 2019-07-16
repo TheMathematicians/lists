@@ -13,13 +13,14 @@ const Wrapper = styled.div`
 
 const Title = styled.h1`
   font-size: 5em;
+  font-weight: 100;
 `;
 
 const App: React.FC = () => {
   return (
     <ThemeProvider theme={theme}>
       <Wrapper>
-        <Title>Lists</Title>
+        <Title>L!nk It</Title>
 
         <GlobalStyle />
       </Wrapper>
